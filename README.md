@@ -1,5 +1,5 @@
 <h1>Embarcatech - SISTEMA DE DETECÇÃO VISUAL DE CAMPAINHA PARA DEFICIENTE 
-AUTITIVO</h1>
+AUDITIVO</h1>
 
    <p><strong>Descrição:</strong></p>
    <p>Este projeto foi desenvolvido para melhorar a acessibilidade de pessoas 
