@@ -43,7 +43,7 @@ dono exceda do tempo do não atendimento.</p>
 - **Controle do Display OLED**: Funções que inicializam e atualizam o conteúdo do display.
 - **Controle da Matriz de LEDs**: Funções para exibir padrões de LEDs na matriz 5x5.
 - **Detecção de Pico de Som**: Implementa a lógica de detecção de som utilizando o filtro de média móvel.
-- **Interrupção do Botão**: Configura uma interrupção para o botão A, que apaga os LEDs e o display quando pressionado.
+- **Interrupção do Botão**: Configura uma interrupção para o botão A, que apaga os LEDs e o display quando pressionado ou esperar 3 minutos.
 
 ## Detalhamento das Funcionalidades
 
