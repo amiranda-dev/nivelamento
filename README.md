@@ -1,7 +1,7 @@
 <h1>Embarcatech - SISTEMA DE DETECÇÃO VISUAL DE CAMPAINHA PARA DEFICIENTE 
 AUDITIVO</h1>
 
-   <p><strong>Descrição:</strong></p>
+   # Descrição
    <p>Este projeto foi desenvolvido para melhorar a acessibilidade de pessoas 
 com deficiência auditiva, permitindo que percebam quando uma campainha está 
 tocando. O sistema utiliza um microfone para detectar o som da campainha e 
@@ -76,5 +76,3 @@ O botão A (conectado ao GPIO5) gera uma interrupção ao ser pressionado. Essa 
 Esse projeto combina detecção de som, controle de display, matriz de LEDs e botões para um sistema interativo com resposta visual.
 <h3>Vídeo de Demostração</h3>
 <p>YouTube: https://youtu.be/_bO93-7aTnU</p>
-
-<h4><strong>Alisson Miranda</strong></h4>
