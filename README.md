@@ -74,5 +74,5 @@ O botão A (conectado ao GPIO5) gera uma interrupção ao ser pressionado. Essa 
 - **ADC**: Biblioteca para leitura do Conversor Analógico-Digital (ADC).
 
 Esse projeto combina detecção de som, controle de display, matriz de LEDs e botões para um sistema interativo com resposta visual.
-<h3>Vídeo de Demostração</h3>
+<h3>Vídeo de Explicação</h3>
 <p>YouTube: https://youtu.be/_bO93-7aTnU</p>
